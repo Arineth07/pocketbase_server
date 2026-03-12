@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-./pocketbase.exe serve --http 0.0.0.0:$PORT
+./pocketbase serve --http 0.0.0.0:$PORT
